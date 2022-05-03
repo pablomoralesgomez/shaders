@@ -22,3 +22,4 @@ En lo que respecta a la implementación en sí del programa, para mostrar el tri
 
 ## Previsualización del Programa
 
+<p align="center"> <img src="animacion.gif" alt="gif animado" /> </p>
